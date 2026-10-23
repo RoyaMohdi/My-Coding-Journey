@@ -78,3 +78,12 @@ The `<h1>` and `<p>` elements are nested inside the `<body>` element.
 ```html
 <html lang="en">
 ``
+HTML Quotation and Citation Elements
+<blockquote> that is quoted from another source 
+<q> defines a short quotation
+<abbr> defins an abbreviation or an acronym like "HTML:. "CSS", "Mr",…
+<address> defines the contact information for the author/owner of the document or an article.
+<cite> defines the title of a creative work, 
+<bdo>bi- Directional Override : use to overrid the current text directions
+
+
