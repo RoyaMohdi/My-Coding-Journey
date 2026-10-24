@@ -1,5 +1,7 @@
 # HTML Learning Notes
 
+> 👩‍💻 My personal notes as I learn HTML, with examples, quizzes, and challenges!
+
 ## 1. Introduction to HTML
 
 - HTML stands for **HyperText Markup Language**.
@@ -21,6 +23,7 @@
 </body>
 </html>
 ```
+
 
 ### Explanation
 - `<!DOCTYPE html>` — Defines the document as HTML5.
