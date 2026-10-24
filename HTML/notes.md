@@ -2,6 +2,10 @@
 
 > 👩‍💻 My personal notes as I learn HTML, with examples, quizzes, and challenges!
 
+##  🗺️ My Learning Progress
+- [x] 1. Introduction
+- [X] 2. Basic Structure 
+
 ## 1. Introduction to HTML
 
 - HTML stands for **HyperText Markup Language**.
