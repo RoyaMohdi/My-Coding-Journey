@@ -13,7 +13,10 @@
 - [x] 8. Text Formatting
 - [x] 9. Quotations & Citations
 - [ ] 10. Comments
-
+- [ ] 11. Colors & CSS
+- [ ] 12. Links & Images
+- [ ] 13. Tables & Lists
+- [ ] 14. Forms
 ## 1. Introduction to HTML
 
 - HTML stands for **HyperText Markup Language**.
