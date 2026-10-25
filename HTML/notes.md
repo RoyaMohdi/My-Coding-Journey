@@ -4,7 +4,10 @@
 
 ##  🗺️ My Learning Progress
 - [x] 1. Introduction
-- [X] 2. Basic Structure 
+- [X] 2. Basic Structure
+- [x] 3. Nested Elements
+- [x] 4. Attributes
+- [x] 5. Headings 
 
 ## 1. Introduction to HTML
 
