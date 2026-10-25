@@ -41,6 +41,15 @@
 </html>
 ```
 
+| Tag | What it does |
+|---|---|
+| `<!DOCTYPE html>` | Defines the document as HTML5 |
+| `<html>` | The root element of the page |
+| `<head>` | Contains information about the page (not visible) |
+| `<title>` | The title shown in the browser tab |
+| `<body>` | Contains everything visible on the page |
+| `<h1>` | A main heading |
+| `<p>` | A paragraph |
 
 ### Explanation
 - `<!DOCTYPE html>` — Defines the document as HTML5.
