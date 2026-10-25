@@ -51,6 +51,29 @@
 | `<h1>` | A main heading |
 | `<p>` | A paragraph |
 
+
+> 🏠 **Memory trick:** `<html>` is the whole house, `<head>` is the attic (hidden stuff),
+> and `<body>` is the rooms everyone can see.
+
+### What is an Element?
+An element is everything from the start tag to the end tag:
+```html
+<tagname>Content goes here...</tagname>
+```
+- **Empty elements** have no content and no end tag, like `<br>` (line break).
+- HTML is **not case-sensitive**, but lowercase is recommended.
+
+### 🧠 Quick Quiz
+**Q: Which part of the page is visible to users: `<head>` or `<body>`?**
+<details>
+<summary>👀 Click to see the answer</summary>
+
+`<body>` 🎉 The `<head>` holds hidden information like the title.
+</details>
+
+---
+
+
 ### Explanation
 - `<!DOCTYPE html>` — Defines the document as HTML5.
 - `<html>` — The root element of the HTML page.
