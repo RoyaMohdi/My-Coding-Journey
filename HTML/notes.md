@@ -17,6 +17,8 @@
 - [ ] 12. Links & Images
 - [ ] 13. Tables & Lists
 - [ ] 14. Forms
+
+---
 ## 1. Introduction to HTML
 
 - HTML stands for **HyperText Markup Language**.
