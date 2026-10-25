@@ -7,7 +7,12 @@
 - [X] 2. Basic Structure
 - [x] 3. Nested Elements
 - [x] 4. Attributes
-- [x] 5. Headings 
+- [x] 5. Headings
+- [x] 6. Paragraphs
+- [x] 7. Styles
+- [x] 8. Text Formatting
+- [x] 9. Quotations & Citations
+- [ ] 10. Comments
 
 ## 1. Introduction to HTML
 
