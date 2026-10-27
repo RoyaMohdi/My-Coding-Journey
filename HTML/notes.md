@@ -73,7 +73,26 @@ An element is everything from the start tag to the end tag:
 
 ---
 
+## 🪆 3. Nested HTML Elements
 
+HTML elements can be **nested**, meaning an element can contain other elements.
+
+```html
+<body>
+    <h1>Welcome</h1>
+    <p>This is my webpage.</p>
+</body>
+```
+
+The `<h1>` and `<p>` elements are nested inside `<body>`.
+
+> 🪆 **Think of nesting like Russian dolls:** each element fits inside another one.
+
+> [!WARNING]
+> Never skip the end tag! `<p>Hello` ❌ → `<p>Hello</p>` ✅
+> Close tags in the **opposite order** you opened them: `<p><b>Hi</b></p>` ✅
+
+---
 ### Explanation
 - `<!DOCTYPE html>` — Defines the document as HTML5.
 - `<html>` — The root element of the HTML page.
