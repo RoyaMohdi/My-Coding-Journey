@@ -135,7 +135,15 @@ The `<h1>` and `<p>` elements are nested inside `<body>`.
 <h5>Heading 5</h5>
 <h6>Heading 6</h6>  <!-- Smallest -->
 ```
+- `<h1>` = most important, `<h6>` = least important.
+- Search engines use headings to understand your page.
 
+> 📰 **Think of a newspaper:** `<h1>` is the big front-page headline, `<h2>` are section titles, and `<h3>` are article titles.
+
+> [!TIP]
+> Use only **one** `<h1>` per page, and don't use headings just to make text big.
+
+---
 
 
 
