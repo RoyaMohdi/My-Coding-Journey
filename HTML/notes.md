@@ -144,7 +144,24 @@ The `<h1>` and `<p>` elements are nested inside `<body>`.
 > Use only **one** `<h1>` per page, and don't use headings just to make text big.
 
 ---
+## 📄 6. HTML Paragraphs
 
+| Tag | What it does |
+|---|---|
+| `<p>` | A paragraph (adds space before and after) |
+| `<br>` | A line break, without a new paragraph |
+| `<hr>` | A horizontal line to separate content |
+| `<pre>` | Preformatted text that keeps spaces and line breaks |
+
+```html
+<p>This is a paragraph.</p>
+<hr>
+<p>This is a line<br>break inside a paragraph.</p>
+<pre>
+Text in pre
+   keeps    spaces!
+</pre>
+```
 
 
 
