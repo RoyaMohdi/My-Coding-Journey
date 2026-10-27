@@ -93,6 +93,36 @@ The `<h1>` and `<p>` elements are nested inside `<body>`.
 > Close tags in the **opposite order** you opened them: `<p><b>Hi</b></p>` ✅
 
 ---
+
+## 🏷️ 4. HTML Attributes
+
+- Attributes give **extra information** about elements.
+- They go in the **opening tag**.
+- They use name/value pairs: `name="value"`.
+
+| Attribute | Used with | What it does | Example |
+|---|---|---|---|
+| `href` | `<a>` | Link destination | `<a href="https://www.google.com">Google</a>` |
+| `src` | `<img>` | Image location | `<img src="cat.jpg">` |
+| `alt` | `<img>` | Text if image can't load | `<img src="cat.jpg" alt="A cute cat">` |
+| `width` / `height` | `<img>` | Image size in pixels | `<img src="cat.jpg" width="300">` |
+| `style` | Any element | Inline CSS styling | `<p style="color: red;">Hi</p>` |
+| `lang` | `<html>` | Language of the page | `<html lang="en">` |
+| `title` | Any element | Tooltip on hover | `<p title="Hello!">Hover me</p>` |
+
+> [!TIP]
+> Always write attributes in **lowercase** and put values in **"quotes"**.
+> Always add `alt` to images; it helps people using screen readers.
+
+### 🧠 Quick Quiz
+**Q: Which attribute tells a link where to go?**
+<details>
+<summary>👀 Click to see the answer</summary>
+
+`href` 🎉 (Memory trick: **h**yperlink **ref**erence)
+</details>
+
+---
 ### Explanation
 - `<!DOCTYPE html>` — Defines the document as HTML5.
 - `<html>` — The root element of the HTML page.
