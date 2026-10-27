@@ -162,6 +162,37 @@ Text in pre
    keeps    spaces!
 </pre>
 ```
+> [!NOTE]
+> Browsers **ignore** extra spaces and new lines in your code. Use `<br>` or `<pre>` to control them.
+
+---
+
+## 🎨 7. HTML Styles
+
+The `style` attribute adds color, fonts, and size:
+```html
+<tagname style="property: value;">
+```
+
+| Property | What it changes | Example |
+|---|---|---|
+| `background-color` | Background color | `style="background-color: powderblue;"` |
+| `color` | Text color | `style="color: blue;"` |
+| `font-family` | Font | `style="font-family: Arial;"` |
+| `font-size` | Text size | `style="font-size: 20px;"` |
+| `text-align` | Alignment | `style="text-align: center;"` |
+
+### 🎯 Challenge
+Make a heading that is **purple**, **centered**, and uses the **Verdana** font.
+<details>
+<summary>👀 Click to see the solution</summary>
+
+```html
+<h1 style="color: purple; text-align: center; font-family: Verdana;">My Heading</h1>
+```
+</details>
+
+---
 
 
 
