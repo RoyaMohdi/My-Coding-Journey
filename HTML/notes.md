@@ -198,33 +198,3 @@ Make a heading that is **purple**, **centered**, and uses the **Verdana** font.
 
 
 
-| `<blockquote>` | A section quoted from another source |
-| `<q>` | A short inline quotation (browsers add quotation marks) |
-| `<abbr>` | An abbreviation or acronym, like "HTML", "CSS", "Mr." |
-| `<address>` | Contact information for the author/owner of a document or article |
-| `<cite>` | The title of a creative work (book, song, movie, painting) |
-| `<bdo>` | Bi-Directional Override: overrides the current text direction |
-
-### Examples
-```html
-<blockquote cite="https://www.example.com">
-  This text is quoted from another website.
-</blockquote>
-
-<p>She said: <q>Practice makes perfect.</q></p>
-
-<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
-
-<address>
-  Written by Roya Mohammadi<br>
-  Toronto, Canada
-</address>
-
-<p><cite>The Scream</cite> by Edvard Munch.</p>
-
-<bdo dir="rtl">This text will be written from right to left</bdo>
-```
-
-- `title` in `<abbr>` shows the full meaning when you hover.
-- `<address>` and `<cite>` usually display in *italic*.
-- `dir="rtl"` means right-to-left; `dir="ltr"` means left-to-right.
