@@ -198,22 +198,6 @@ Make a heading that is **purple**, **centered**, and uses the **Verdana** font.
 
 
 
-| `<strong>` | Important text (bold) |
-| `<i>` | Italic text |
-| `<em>` | Emphasized text (italic) |
-| `<mark>` | Highlighted text |
-| `<small>` | Smaller text |
-| `<del>` | Deleted (crossed-out) text |
-| `<ins>` | Inserted (underlined) text |
-| `<sub>` | Subscript text, like H<sub>2</sub>O |
-| `<sup>` | Superscript text, like x<sup>2</sup> |
-
-- `<strong>` and `<em>` add **meaning** (importance), which helps screen readers, while `<b>` and `<i>` only change the look.
-
-## 9. HTML Quotation and Citation Elements
-
-| Tag | Meaning |
-|---|---|
 | `<blockquote>` | A section quoted from another source |
 | `<q>` | A short inline quotation (browsers add quotation marks) |
 | `<abbr>` | An abbreviation or acronym, like "HTML", "CSS", "Mr." |
