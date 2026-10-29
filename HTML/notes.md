@@ -193,6 +193,25 @@ Make a heading that is **purple**, **centered**, and uses the **Verdana** font.
 </details>
 
 ---
+## ✍️ 8. HTML Text Formatting
+
+| Tag | Meaning | Looks like |
+|---|---|---|
+| `<b>` | Bold text | **bold** |
+| `<strong>` | Important text | **important** |
+| `<i>` | Italic text | *italic* |
+| `<em>` | Emphasized text | *emphasized* |
+| `<mark>` | Highlighted text | <mark>highlighted</mark> |
+| `<small>` | Smaller text | <small>small</small> |
+| `<del>` | Deleted text | <del>deleted</del> |
+| `<ins>` | Inserted text | <ins>inserted</ins> |
+| `<sub>` | Subscript | H<sub>2</sub>O |
+| `<sup>` | Superscript | x<sup>2</sup> |
+
+> 💡 **Memory trick:** **sub** = **sub**marine (goes down ⬇️), **sup** = **sup**erman (goes up ⬆️)
+
+> [!TIP]
+> Use `<strong>` and `<em>` instead of `<b>` and `<i>`. They add **meaning**, which helps screen readers.
 
 
 
