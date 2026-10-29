@@ -289,4 +289,12 @@ Make a heading that is **purple**, **centered**, and uses the **Verdana** font.
 </details>
 
 ---
-
+## 🏆 Final Challenge
+Build a mini "About Me" page using everything above:
+- [ ] A proper HTML structure with `<!DOCTYPE html>` and `lang="en"`
+- [ ] Your name as an `<h1>`
+- [ ] A paragraph about yourself with one `<strong>` word
+- [ ] A link to your LinkedIn
+- [ ] An image with `alt` text
+- [ ] A favorite quote using `<blockquote>`
+- [ ] Your city inside `<address>`
