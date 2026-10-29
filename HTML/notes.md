@@ -250,6 +250,43 @@ Make a heading that is **purple**, **centered**, and uses the **Verdana** font.
 <bdo dir="rtl">This text goes right to left</bdo>
 ```
 ## 💬 9. HTML Quotation and Citation Elements
+| Tag | Meaning |
+|---|---|
+| `<blockquote>` | A section quoted from another source |
+| `<q>` | A short inline quote (adds quotation marks) |
+| `<abbr>` | An abbreviation, like "HTML", "CSS", "Mr." |
+| `<address>` | Contact info for the author or owner |
+| `<cite>` | The title of a creative work (book, song, movie) |
+| `<bdo>` | Bi-Directional Override: changes text direction |
 
+```html
+<blockquote cite="https://www.example.com">
+  This text is quoted from another website.
+</blockquote>
 
+<p>She said: <q>Practice makes perfect.</q></p>
+
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+
+<address>
+  Written by Roya Mohammadi<br>
+  Toronto, Canada
+</address>
+
+<p><cite>The Scream</cite> by Edvard Munch.</p>
+
+<bdo dir="rtl">This text goes right to left</bdo>
+```
+> 💡 **Memory trick:** `<q>` = **q**uote, `<abbr>` = **abbr**eviation,
+> `<bdo>` = **B**i-**D**irectional **O**verride, `dir="rtl"` = **r**ight **t**o **l**eft
+
+### 🧠 Quick Quiz
+**Q: What's the difference between `<blockquote>` and `<q>`?**
+<details>
+<summary>👀 Click to see the answer</summary>
+
+`<blockquote>` is for a **long** quote on its own block, and `<q>` is for a **short** quote inside a sentence. 🎉
+</details>
+
+---
 
