@@ -213,7 +213,17 @@ Make a heading that is **purple**, **centered**, and uses the **Verdana** font.
 > [!TIP]
 > Use `<strong>` and `<em>` instead of `<b>` and `<i>`. They add **meaning**, which helps screen readers.
 
+## 🧠 Quick Quiz
+**Q: How do you write the chemical formula for water, H₂O?**
+<details>
+<summary>👀 Click to see the answer</summary>
 
+`H<sub>2</sub>O` 🎉
+</details>
+
+---
+
+## 💬 9. HTML Quotation and Citation Elements
 
 
 
